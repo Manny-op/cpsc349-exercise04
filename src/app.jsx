@@ -1,5 +1,6 @@
-const USERNAME = 'ADMIN_EMAIL'
-const PASSWORD = 'ADMIN_PASSWORD'
+import PocketBase from 'https://unpkg.com/pocketbase@0.8.3/dist/pocketbase.es.mjs'
+const USERNAME = 'emsalcedo@csu.fullerton.edu'
+const PASSWORD = 'Nintendo3ds'
 
 const pb = new PocketBase('http://127.0.0.1:8090')
 
